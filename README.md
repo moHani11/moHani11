@@ -1,5 +1,11 @@
 ### Hi there 👋
+         
+>First of all i'm insane for football ⚽⚽  
 
+-------------------------------------------------------------------------------------
+
+"I totaly believe my passion and motivation can outwork any kind of discipline."
+                            ((my quote))
 <!--
 **moHani11/moHani11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
