@@ -36,7 +36,7 @@ I have participated in several robotics competitions, where I applied my knowled
 Feel free to reach out if you want to collaborate on a project, discuss AI and ML, or just say hi!
 
 - **Email**: [mohamedhani004@gmail.com]
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-hani-a57010307)]
+- **LinkedIn**: [[My LinkedIn Profile](https://www.linkedin.com/in/mohamed-hani-a57010307)]
 
 ## 🎯 Goals
 
