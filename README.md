@@ -48,5 +48,5 @@ Feel free to reach out if you want to collaborate on a project, discuss AI and M
 
 ## 💡 Fun Fact
 
-My passion for football is insane (played it professional for quite a time).
+I am quite passionate about football (played it professionally for some time).
 
