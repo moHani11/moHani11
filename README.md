@@ -2,13 +2,14 @@
 
 ## About Me
 
-I am a passionate Computer Engineer with a keen interest in Artificial Intelligence (AI) and Machine Learning (ML) and computer vision. My journey in technology has been driven by curiosity and the desire to innovate, leading me to explore various facets of AI, ML, and robotics.
+I am a passionate Computer Engineer with a keen interest in Robotics, Artificial Intelligence (AI) and computer vision. My journey in technology has been driven by curiosity and the desire to innovate, leading me to explore various facets of AI, ML, and robotics.
 
 ## 🛠️ Skills & Technologies
 
 - **Programming Languages**: 
   - C
   - Python
+  - java
 
 - **Technologies & Tools**:
   - TensorFlow, Keras
