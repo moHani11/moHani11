@@ -68,12 +68,10 @@ Computer and Communication Engineering student at **Faculty of Engineering, Alex
 - Proficient in **Ubuntu/Linux** environments
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moHani11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moHani11&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moHani11&theme=tokyonight"    />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moHani11&theme=tokyonight" />
 </div>
-
 <div align="center">
 
 ---
